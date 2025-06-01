@@ -1,0 +1,21 @@
+order_id,customer,product,category,price,date
+1,Alicia Taylor,Laptop,Electronics,373.36,2025-02-08
+2,Alicia Chavez,T-Shirt,Clothing,78.37,2025-03-20
+3,Justin Price,Headphones,Electronics,372.93,2025-05-09
+4,Matthew Bradford,Headphones,Electronics,216.74,2025-04-29
+5,Erika Jones,Laptop,Electronics,117.13,2025-03-15
+6,Joshua Schroeder,Headphones,Electronics,107.43,2025-01-07
+7,Daniel Silva,Toaster,Home,230.11,2025-03-15
+8,Jody Hall,Novel,Books,381.82,2025-03-05
+9,Tamara Johnson,Jacket,Clothing,217.08,2025-01-06
+10,Ana Meyer,Novel,Books,115.5,2025-05-02
+11,Joshua Lee,Novel,Books,55.45,2025-01-27
+12,Jimmy Weiss,Smartphone,Electronics,425.27,2025-01-21
+13,Laura Young,Novel,Books,367.57,2025-03-29
+14,Ms. Jessica Kelly MD,Smartphone,Electronics,48.61,2025-01-21
+15,Rachel Cunningham,Biography,Books,313.07,2025-05-17
+16,Jose Raymond,Biography,Books,104.22,2025-01-15
+17,Frank Moore,Laptop,Electronics,334.02,2025-04-03
+18,Aimee Nelson,Novel,Books,429.11,2025-01-03
+19,Deborah Bryan,Smartphone,Electronics,146.21,2025-04-03
+20,Robert Gonzalez,Novel,Books,191.39,2025-02-14
